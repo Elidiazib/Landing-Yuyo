@@ -1,8 +1,8 @@
 :root {
-  --primary-main: #093A3E;
+  --primary-main: #0c0a4a;
   --primary-dark: #001011;
   --primary-light: #3aafb9;
-  --secondary-main: #64e9ee;
+  --secondary-main: #652eb8;
   --secondary-dark: #97c8eb;
   --secondary-light: #98df80;
 }
@@ -15,11 +15,11 @@
 /*Navbar*/
 
 .nav-link:hover {
-  color: #76aaba !important;
+  color: #60919f !important;
 }
 
 .navbar {
-  background-color: #093A3E !important;
+  background-color: #4c9198 !important;
 }
 
 .nav-logo {
