@@ -1,7 +1,7 @@
 :root {
   --primary-main: #0c0a4a;
   --primary-dark: #001011;
-  --primary-light: #3aafb9;
+  --primary-light: #15636b;
   --secondary-main: #652eb8;
   --secondary-dark: #97c8eb;
   --secondary-light: #98df80;
@@ -332,3 +332,18 @@ nav div.container3 button:hover {
 .social-links a:hover {
   background-color: var(--primary-light);
 }
+
+
+/* Estilo de las imagenes del sitio */
+img{ 
+  max-width: 100%; /* Evita que la imagen se salga del contenedor */
+}
+
+.mi-clase img {
+  object-fit: contain;
+}
+
+.mi-clase img {
+  height: max-content; width: max-content;
+}
+
